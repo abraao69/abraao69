@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Abraão</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Análise e Desnvolvimento de Sistemas na <a href="https://www.betrybe.com/"><i>Estácio</i></a> e compartilho meu aprendizado no meu canal no <i>Aqui no meu GitHub</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo Desenvolvimento Análise e Desenvolvimento de Sistemas na <a href="https://www.betrybe.com/"><i>Estácio</i></a> e compartilho meu aprendizado no meu canal no <i>Aqui no meu GitHub</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
