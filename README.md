@@ -39,7 +39,7 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/abraao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:abraao695@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank](https://www.linkedin.com/in/abra%C3%A3o-martins-20021b243/recent-activity/)"></a>
+  <a href="abraao695@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank]([https://www.linkedin.com/in/abra%C3%A3o-martins-20021b243/recent-activity/)](https://www.linkedin.com/in/abra%C3%A3o-martins-20021b243/recent-activity/)"></a>
 </div>
 
 <div align="center">
