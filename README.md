@@ -3,6 +3,7 @@
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 4° período
+- Web developer Laravel 8,9..
 
 ##
 <div align="center">
