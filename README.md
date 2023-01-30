@@ -34,7 +34,7 @@
   <img align="center" alt="Pyth" height="30" width="40" src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png"
   <img align="center" alt="Csharp" height="30" width="40" src="https://www.clipartmax.com/png/small/210-2101663_saiha-digital-marketing-web-design-graphic-design-ionic-logo.png"/>
   <img align="center" alt="figma" height="30" width="40" src="https://www.clipartmax.com/png/small/210-2101663_saiha-digital-marketing-web-design-graphic-design-ionic-logo.png" />
-  <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Canvas" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcY29BDRz_0IBfFy2onKKltZs0Wg1tQT7aYWKvf6NPFnMz9-3GXkoZBc8jLrMue1hsz0&usqp=CAU" />
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
