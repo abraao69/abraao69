@@ -32,7 +32,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pyth" height="30" width="40" src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png"
-  <img align="center" alt="Csharp" height="30" width="40" src="https://www.clipartmax.com/png/small/210-2101663_saiha-digital-marketing-web-design-graphic-design-ionic-logo.png">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://www.clipartmax.com/png/small/210-2101663_saiha-digital-marketing-web-design-graphic-design-ionic-logo.png"/>
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
