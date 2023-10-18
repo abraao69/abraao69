@@ -1,9 +1,26 @@
 ### Olá! Eu sou o Abraão Martins
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 5° período
-- Web developer Laravel 8,9..
+Eu sou um desenvolvedor de software Fullstack com uma abordagem especializada em dominar o Back-end.
+
+Experiência Fullstack:
+Minha jornada no mundo da programação abrange várias áreas, Minha caixa de ferramentas inclui proficiência em linguagens e frameworks como PHP, Laravel, CodeIgniter além de banco de dados MySQL e PostgreSQL. Estou à vontade com ambientes de contêineres Docker, tecnologias front-end como JavaScript e estruturas do lado do servidor, como Node.js.
+
+Domínio de Padrões e Tecnologias:
+Utilizo e aplico amplamente os padrões e tecnologias reconhecidas em nossa indústria. Isso abrange a implementação de arquitetura Model-View-Controller (MVC), a utilização do eloquent ORM e a criação de API's REST. Além disso, aplico princípios de Programação Orientada a Objetos, gerencio migrações de banco de dados com o Phinx e estilizo interfaces de usuário com Bootstrap. Sou versado em sistemas de controle de versão, como Git, e também sou adepto de tecnologias modernas, como Firebase, WebSocket e jQuery. Não hesito em mergulhar em plataformas populares, como Wordpress, Drupal.
+
+Habilidades de Teste e Resolução de Problemas:
+Parte importante do meu processo de desenvolvimento inclui a realização de testes de software e depuração de código. Considero essas práticas cruciais para manter a qualidade dos projetos.
+
+Metodologias Ágeis:
+Sou adepto de metodologias ágeis, particularmente o Scrum, que acredito ser essencial para fornecer resultados eficazes em equipe.
+
+Servidores Linux e Automação com Shell Script:
+Tenho habilidades para gerenciar servidores Linux e escrever scripts em bash. Isso me capacita a automatizar tarefas, melhorar a eficiência e assegurar a estabilidade dos servidores.
+
+Outras Habilidades Suaves:
+Além das habilidades técnicas, possuo uma série de habilidades suaves que são altamente valorizadas. Entre elas, destaco a capacidade de aprendizado rápido e a criatividade. Tenho uma inclinação para aplicar práticas e padrões já estabelecidos na indústria.
+
 
 ##
 <div align="center">
