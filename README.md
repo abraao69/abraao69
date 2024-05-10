@@ -50,8 +50,6 @@ Além das habilidades técnicas, possuo uma série de habilidades suaves que sã
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- ### Skills
-
 
 <br><br>
 <div>
