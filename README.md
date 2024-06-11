@@ -1,4 +1,4 @@
-<img src="https://github.com/abraao69/abraao69/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Logo" width="450" height="170">
+<img src="https://github.com/abraao69/abraao69/blob/main/screen02%20(8).jpg" alt="Logo" width="950" height="400">
 
 ### Bem-vindo(a)  
 
